@@ -1,4 +1,4 @@
-x,y map(int(input("x,y :").split(","))
+x,y = map(int(input("x,y :").split(","))
 y = int(input("enter y :"))
 z = x + y
 print("*"*80)
